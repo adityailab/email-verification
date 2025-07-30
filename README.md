@@ -27,7 +27,7 @@ This project is a Python-based Streamlit web app for validating email addresses 
 ![Excel Validation Output](screenshot2.png)
 
 ### Streamlit - Post-validation Download Option
-![Streamlit Result Download](screenshot3.png)
+![Streamlit Result Download](https://github.com/adityailab/email-verification/blob/main/Screenshot%202025-07-30%20at%204.41.25%E2%80%AFPM.png)
 
 ---
 
