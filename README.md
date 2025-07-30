@@ -21,7 +21,7 @@ This project is a Python-based Streamlit web app for validating email addresses 
 ## 📸 Screenshots
 
 ### Streamlit App - File Upload Interface
-![Streamlit Upload Interface](screenshot1.png)
+![Streamlit Upload Interface](Screenshot 2025-07-30 at 4.39.58 PM.png)
 
 ### Validation Output in Excel (Color-coded)
 ![Excel Validation Output](screenshot2.png)
