@@ -1,11 +1,5 @@
-re
 dnspython
-smtplib
-socket
-csv
-os
 pandas
-streamlit 
-io 
+streamlit  
 openpyxl 
 
